@@ -12,7 +12,7 @@ You should now have all the dependencies installed.
 1. Download the dependencies as mentioned above
 2. Fill your investments into investments.json
 
-    a. The structure of the json file is an array of dictionaries:
+    a. The structure of the json file is an array of dictionaries: <br/>
         [ <br/>
             { <br/>
                 "name": "", <br/>
@@ -21,11 +21,7 @@ You should now have all the dependencies installed.
                     { <br/>
                         "amountBought": "", <br/>
                         "spent": "" <br/>
-                    }, <br/>
-                    { <br/>
-                        "amountBought": "", <br/>
-                        "spent": "" <br/>
-                    } <br/>
+                    }
                 ], <br/>
                 "sold": "False", <br/>
                 "sells": [ <br/>
