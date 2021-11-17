@@ -1,0 +1,13 @@
+beautifulsoup4==4.10.0
+certifi==2021.10.8
+charset-normalizer==2.0.7
+CurrencyConverter==0.16.5
+forex-python==1.6
+idna==3.3
+pyobjc-core==8.0
+pyobjc-framework-Cocoa==8.0
+requests==2.26.0
+rumps==0.3.0
+simplejson==3.17.6
+soupsieve==2.3.1
+urllib3==1.26.7
