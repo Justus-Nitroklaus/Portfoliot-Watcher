@@ -13,28 +13,28 @@ You should now have all the dependencies installed.
 2. Fill your investments into investments.json
 
     a. The structure of the json file is an array of dictionaries:
-        [
-            {
-                "name": "",
-                "ticker": "",
-                "buys": [
-                    {
-                        "amountBought": "",
-                        "spent": ""
-                    },
-                    {
-                        "amountBought": "",
-                        "spent": ""
-                    }
-                ],
-                "sold": "False",
-                "sells": [
-                    {
-                        "amountSold": "",
-                        "price": ""
-                    }
-                ]
-            }, ....]
+        [ <br/>
+            { <br/>
+                "name": "", <br/>
+                "ticker": "", <br/>
+                "buys": [ <br/>
+                    { <br/>
+                        "amountBought": "", <br/>
+                        "spent": "" <br/>
+                    }, <br/>
+                    { <br/>
+                        "amountBought": "", <br/>
+                        "spent": "" <br/>
+                    } <br/>
+                ], <br/>
+                "sold": "False", <br/>
+                "sells": [ <br/>
+                    { <br/>
+                        "amountSold": "", <br/>
+                        "price": "" <br/>
+                    } <br/>
+                ] <br/>
+            }, ....] <br/>
         
 
     b. Type every floating number with a decimal point and not a comma
