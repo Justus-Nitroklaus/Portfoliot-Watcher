@@ -1,6 +1,6 @@
-#Crypto Portfoliot Watcher
+# Crypto Portfoliot Watcher
 
-##Dependencies
+## Dependencies
 Please clone the repository. Afterwards you can create a virtualenv if you want to, but it is not necessary.
 Lastly type
 ```
@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 You should now have all the dependencies installed.
 
-##How it works
+## How it works
 1. Download the dependencies as mentioned above
 2. Fill your investments into investments.json
 
